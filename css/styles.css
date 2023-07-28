@@ -1,0 +1,26 @@
+.hero-section {
+    background-color: #11131F;
+}
+
+.hero-tittle {
+    color:  #F6F5EF;
+        font-family: DM Sans;
+        font-size: 36px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 110%;
+        /* 39.6px */
+        letter-spacing: -1.62px;
+}
+.hero-span {
+
+}
+.hero-text {}
+
+.hero-btn {}
+
+.hero-clients {}
+
+.hero-price {}
+
+.hero-dream {}
